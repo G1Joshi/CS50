@@ -11,7 +11,7 @@
 ## Week 2 [Arrays](https://github.com/G1Joshi/CS50x/tree/master/Arrays)
 ## Week 3 [Algorithms](https://github.com/G1Joshi/CS50x/tree/master/Algorithms)
 ## Week 4 [Memory](https://github.com/G1Joshi/CS50x/tree/master/Memory)
-## Week 5 Data Structures
+## Week 5 [Data Structures](https://github.com/G1Joshi/CS50x/tree/master/Data%20Structures)
 ## Week 6 Python
 ## Week 7 SQL
 ## Week 8 Information
