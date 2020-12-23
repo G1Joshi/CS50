@@ -1,0 +1,130 @@
+body {
+  font-family: Georgia;
+  font-size: 14pt;
+  background-color: #9999ff;
+  padding: 10px;
+  margin: 0;
+}
+h1 {
+  font-size: 25pt;
+  text-decoration: underline;
+  color: #5b5bda;
+  text-align: center;
+  padding: 18px 0 18px 0;
+  margin: 0 0 10px 0;
+}
+.img-circle {
+  border: 3px solid white;
+  border-radius: 50%;
+}
+.section {
+  background-color: #ccccff;
+  padding: 10px;
+  border: 3px groove #9999ff;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+#home img {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+#home p {
+  font-size: 25pt;
+  color: #5b5bda;
+  padding-top: 5px;
+  margin: 0;
+  font-weight: bold;
+  text-align: center;
+}
+#header {
+  border: 5px groove #9999ff;
+  background-color: #ccccff;
+  padding: 5px;
+}
+#index {
+  font-size: 25pt;
+  color: #5b5bda;
+  padding: 25px;
+  margin: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.nav-bar a {
+  text-decoration: underline;
+  text-align: center;
+  cursor: pointer;
+  font-size: 12pt;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 1px;
+  color: #5b5bda;
+  border: none;
+  margin: 0;
+}
+.nav-bar a:hover {
+  background-color: #43a09d;
+  border-radius: 50%;
+}
+.nav-bar div {
+  display: flex;
+  justify-content: space-around;
+  flex-grow: 1;
+}
+progress {
+  width: 70%;
+  height: 20px;
+  color: #3fb6b2;
+  background: #efefef;
+}
+progress::-webkit-progress-bar {
+  background: #efefef;
+}
+progress::-webkit-progress-value {
+  background: #cc99ff;
+}
+progress::-moz-progress-bar {
+  color: #3fb6b2;
+  background: #efefef;
+}
+form {
+  text-align: center;
+  margin-top: 0;
+}
+.submit {
+  background-color: #cc99ff;
+  padding: 12px 45px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #ffffff;
+  border: none;
+  outline: none;
+  margin: 0;
+  font-weight: bold;
+}
+.submit:hover {
+  background-color: #43a09d;
+}
+.button:hover {
+  background-color: #43a09d;
+}
+textarea {
+  height: 100px;
+}
+input,
+textarea {
+  margin-bottom: 10px;
+  font-size: 11pt;
+  padding: 15px 10px 10px;
+  border: 1px solid #cecece;
+  background-color: #efefef;
+  color: #787575;
+  border-radius: 5px;
+  width: 70%;
+  outline: none;
+}
+#contacts {
+  text-align: center;
+  font-size: 25px;
+}
