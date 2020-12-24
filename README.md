@@ -18,7 +18,7 @@
 
 ***
 
-## Final Project
+## [Final Project](https://github.com/G1Joshi/CS50x/tree/master/Project)
 
 ***
 
