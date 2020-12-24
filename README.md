@@ -22,4 +22,7 @@
 
 ***
 
+![Certificate](https://raw.githubusercontent.com/G1Joshi/CS50x/master/Certificate/CS50x.png)
+
+***
 > CS50x-2020 : *Introduction to Computer Science*
